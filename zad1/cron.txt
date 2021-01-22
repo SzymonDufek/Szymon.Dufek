@@ -1,0 +1,2 @@
+crontab -e
+0 15 10 1/1 * ? * ~/s96428/Szymon.Dufek/zad1/rozw.txt >> ~/s96428/Szymon.Dufek/zad1/notatki.txt

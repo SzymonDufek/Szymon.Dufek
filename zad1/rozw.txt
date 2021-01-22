@@ -1,0 +1,3 @@
+Putty - pozwala po³¹czyæ siê zdalnie z wirtualnym serwerem na którym znajduje siê system operacyjny 
+VirtualBox - pozwala na zainstalowanie oddzielnego systemu wewn¹trz systemu gospodarza tz. na fizycznym komputerze.
+Poprzez system operacyjny przydziela zasoby dla maszyny wirtualniej
